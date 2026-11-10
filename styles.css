@@ -90,3 +90,8 @@ footer {
 footer a {
     color: #142747;
 }
+
+/* Center About Me and My Interests headings */
+h2 {
+    text-align: center;
+}
