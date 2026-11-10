@@ -1,0 +1,86 @@
+
+/* Import Spectral font */
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600;700&display=swap');
+
+/* Overall website */
+body {
+    font-family: 'Spectral', serif;
+    background-color: #fff0f5;
+    color: #8b174b;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation bar */
+nav {
+    background-color: #fbd5e5;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #142747;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* Main headings */
+h1, h2, h3 {
+    color: #142747;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+/* Main content layout */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: #fff8fb;
+    border-radius: 12px;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* Paragraphs */
+p {
+    color: #8b174b;
+    line-height: 1.8;
+    font-size: 17px;
+}
+
+/* Lists */
+li {
+    color: #8b174b;
+    line-height: 1.8;
+}
+
+/* Footer */
+footer {
+    background-color: #fbd5e5;
+    color: #8b174b;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #142747;
+}
